@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "text": "This is feedback item 1 coming from the backend",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "text": "This is feedback item 2 coming from the backend",
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is feedback item 3 coming from the backend"
+    },
+    {
+      "text": "new feedback from thunderclient",
+      "rating": 9,
+      "id": 4
+    }
+  ]
+}
